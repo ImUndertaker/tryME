@@ -1,2 +1,2 @@
 # tryME
-I tried create simple app for your tasks 
+I tried create a simple app for your tasks 
